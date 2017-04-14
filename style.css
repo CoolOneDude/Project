@@ -11,8 +11,9 @@ p {
   color:#f268aa;
 }
 body {
-    background-image: url('gorillawall.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+  background: url("gorillawall".jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
