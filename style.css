@@ -6,12 +6,12 @@ p {
   color:#c070e0;
   font-size:25px;
 }
-#{
+#gorilla{
   font-size:30px;
   color:#f268aa;
 }
 body {
-    background-image: url('.jpg');
+    background-image: url('gorillawall.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
