@@ -17,3 +17,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+#color{
+  font-size:50px;
+  color:#63ffd2;
+}
