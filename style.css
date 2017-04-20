@@ -1,14 +1,14 @@
 h1 {
-  color:#30f2d1;
+  color:#ce0808;
   font-size:60px;
 }
 p {
-  color:#c070e0;
+  color:#63ffd2;
   font-size:25px;
 }
 #gorilla{
   font-size:30px;
-  color:#f268aa;
+  color:#63ffd2;
 }
 body {
   background: url("gorillawall.jpg") no-repeat center center fixed;
